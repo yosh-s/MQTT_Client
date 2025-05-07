@@ -40,9 +40,13 @@ A modern, user-friendly MQTT client application built with Python, Tkinter, and 
    ```
 ### Windows Executable
 For Windows users, you can download the standalone executable:
-<a href="https://github.com/yosh-s/MQTT_Client/raw/refs/heads/main/MQTT_Client.exe">
-  <img src="https://github.com/yosh-s/MQTT_Client/blob/main/asset/download.png" alt="Download MQTT_Client.exe" width="150"/>
-</a>
+<p align="left">
+  <a href="https://github.com/yosh-s/MQTT_Client/raw/refs/heads/main/MQTT_Client.exe">
+    <img src="https://github.com/yosh-s/MQTT_Client/blob/main/asset/download.png" alt="Download MQTT_Client.exe" width="160"/>
+  </a>
+</p>
+
+
 
   
 ## Usage
