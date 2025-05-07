@@ -94,7 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, open an issue on GitHub or contact [your-username](https://github.com/yosh-s).
+For questions or feedback, open an issue on GitHub or contact [yosh-s](https://github.com/yosh-s).
 
 ---
 
