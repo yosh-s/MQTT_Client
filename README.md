@@ -2,7 +2,7 @@
 
 A modern, user-friendly MQTT client application built with Python, Tkinter, and Paho MQTT. This application allows users to connect to an MQTT broker, subscribe to topics, publish messages, and view real-time message logs with a sleek, dark-themed graphical interface.
 
-![MQTT Client GUI Screenshot](screenshot.png) <!-- Replace with actual screenshot if available -->
+![MQTT Client GUI Screenshot](https://github.com/yosh-s/MQTT_Client/blob/main/asset/screenshot.png)
 
 ## Features
 
@@ -38,7 +38,13 @@ A modern, user-friendly MQTT client application built with Python, Tkinter, and 
    ```bash
    python MQTT_Client.py
    ```
+### Windows Executable
+For Windows users, you can download the standalone executable:
+<a href="https://github.com/yosh-s/MQTT_Client/raw/refs/heads/main/MQTT_Client.exe">
+  <img src="https://github.com/yosh-s/MQTT_Client/blob/main/asset/download.png" alt="Download MQTT_Client.exe" width="150"/>
+</a>
 
+  
 ## Usage
 
 1. **Launch the Application**:
